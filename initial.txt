@@ -1,0 +1,9 @@
+0.6        ! Mach number
+0.0        ! Angle of attack
+1.225      ! Air density 
+101325.044 ! Ambient pressure (1atm)
+288.15     ! Ambient temperature (15C)
+0.1        ! CFL
+1E-6       ! Error
+100000     ! Iterations
+10         ! Delta iterations
